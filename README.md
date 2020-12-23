@@ -1,2 +1,5 @@
-# books_i_have_read
-little project for displaying books I have read
+# books i have read
+Decided to start tracking the books I've read throughout the year.
+
+todo:
+add 2019
