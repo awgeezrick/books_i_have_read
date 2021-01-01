@@ -1,5 +1,4 @@
 # books i have read
-Decided to start tracking the books I've read throughout the year.
+Decided to start tracking the books I've read since 2019.
 
-todo:
-add 2019
+
