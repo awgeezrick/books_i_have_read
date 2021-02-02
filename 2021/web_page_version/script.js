@@ -3,6 +3,12 @@ var books = [{
     "author": "James Luceno",
     "cover": "https://m.media-amazon.com/images/I/51-bF-A9wML.jpg",
     "pages": 354
+},
+{
+    "title": "Dark Lord",
+    "author": "James Luceno",
+    "cover": "https://m.media-amazon.com/images/I/51jzFL3-77L.jpg",
+    "pages": 369
 }
 
         ]
