@@ -9,6 +9,11 @@ var books = [{
     "author": "James Luceno",
     "cover": "https://m.media-amazon.com/images/I/51jzFL3-77L.jpg",
     "pages": 369
+}, {
+    "title": "Revan",
+    "author": "Drew Karpyshyn",
+    "cover": "https://images.penguinrandomhouse.com/cover/700jpg/9780345511355",
+    "pages": 368
 }
 
         ]
