@@ -29,6 +29,11 @@ var books = [{
     "author": "Drew Karpyshyn",
     "cover": "https://images-na.ssl-images-amazon.com/images/I/91hCdXC3yIL.jpg",
     "pages": 336
+}, {
+    "title": "Heir to the Empire",
+    "author": "Timothy Zahn",
+    "cover": "https://images-na.ssl-images-amazon.com/images/I/51N-guk0CbL.jpg",
+    "pages": 416
 }
 
         ]
