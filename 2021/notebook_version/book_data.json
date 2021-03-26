@@ -8,7 +8,7 @@
 }, {
     "title": "Dark Lord",
     "author": "James Luceno",
-    "cover": "https://m.media-amazon.com/images/I/51jzFL3-77L.jpg",
+    "cover": "https://d188rgcu4zozwl.cloudfront.net/content/B00513HXAG/resources/1713329629",
     "pages": 369
 }, {
     "title": "Revan",
@@ -33,8 +33,14 @@
 }, {
     "title": "Heir to the Empire",
     "author": "Timothy Zahn",
-    "cover": "https://images-na.ssl-images-amazon.com/images/I/51N-guk0CbL.jpg",
+    "cover": "https://d188rgcu4zozwl.cloudfront.net/content/B00513HX7Y/resources/366133765",
     "pages": 416
+},{
+    "title": "Dark Force Rising",
+    "author": "Timothy Zahn",
+    "cover": "https://d188rgcu4zozwl.cloudfront.net/content/B00513HKF4/resources/1863583663",
+    "pages": 450
 }
+
 ]
 }
