@@ -39,6 +39,16 @@ var books = [{
     "author": "Timothy Zahn",
     "cover": "https://d188rgcu4zozwl.cloudfront.net/content/B00513HKF4/resources/1863583663",
     "pages": 450
+},{
+    "title": "The Last Command",
+    "author": "Timothy Zahn",
+    "cover": "https://d188rgcu4zozwl.cloudfront.net/content/B00513HJXC/images/cover.jpg",
+    "pages": 595
+},{
+    "title": "Resistance Reborn",
+    "author": "Rebecca Roanhorse",
+    "cover": "https://images-na.ssl-images-amazon.com/images/I/91zJfaEwrxL.jpg",
+    "pages": 432
 }
 
         ]
@@ -58,7 +68,7 @@ function showBooks(books) {
       "col-xs-12",
       "col-sm-6",
       "col-md-4",
-      "col-lg-3",
+      "col-lg-4",
       "p-0"
     );
     bookElm.innerHTML = `
