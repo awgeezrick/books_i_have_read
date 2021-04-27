@@ -49,6 +49,11 @@ var books = [{
     "author": "Rebecca Roanhorse",
     "cover": "https://images-na.ssl-images-amazon.com/images/I/91zJfaEwrxL.jpg",
     "pages": 432
+},{
+    "title": "Thrawn",
+    "author": "Timothy Zahn",
+    "cover": "https://d188rgcu4zozwl.cloudfront.net/content/B01ILZO30S/images/cover.jpg",
+    "pages": 488
 }
 
         ]
