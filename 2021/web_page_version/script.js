@@ -54,6 +54,11 @@ var books = [{
     "author": "Timothy Zahn",
     "cover": "https://d188rgcu4zozwl.cloudfront.net/content/B01ILZO30S/images/cover.jpg",
     "pages": 488
+},{
+    "title": "Thrawn: Alliances",
+    "author": "Timothy Zahn",
+    "cover": "https://d374oxlv7wyffd.cloudfront.net/B07692QXW3/f83a49ce/cover.jpeg",
+    "pages": 483
 }
 
         ]
