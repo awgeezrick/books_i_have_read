@@ -59,6 +59,12 @@ var books = [{
     "author": "Timothy Zahn",
     "cover": "https://d374oxlv7wyffd.cloudfront.net/B07692QXW3/f83a49ce/cover.jpeg",
     "pages": 483
+},
+ {
+    "title": "Thrawn: Treason",
+    "author": "Timothy Zahn",
+    "cover": "https://images-na.ssl-images-amazon.com/images/I/81vnLArJsuL.jpg",
+    "pages": 496
 }
 
         ]
