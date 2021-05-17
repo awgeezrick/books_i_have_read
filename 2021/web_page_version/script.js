@@ -65,6 +65,12 @@ var books = [{
     "author": "Timothy Zahn",
     "cover": "https://images-na.ssl-images-amazon.com/images/I/81vnLArJsuL.jpg",
     "pages": 496
+},
+ {
+    "title": "Allegiance",
+    "author": "Timothy Zahn",
+    "cover": "https://images-na.ssl-images-amazon.com/images/I/91UYdSUnpFL.jpg",
+    "pages": 336
 }
 
         ]
