@@ -71,6 +71,12 @@ var books = [{
     "author": "Timothy Zahn",
     "cover": "https://images-na.ssl-images-amazon.com/images/I/91UYdSUnpFL.jpg",
     "pages": 336
+},
+ {
+    "title": "Choices of One",
+    "author": "Timothy Zahn",
+    "cover": "https://images-na.ssl-images-amazon.com/images/I/81cIJEItXcL.jpg",
+    "pages":480
 }
 
         ]
