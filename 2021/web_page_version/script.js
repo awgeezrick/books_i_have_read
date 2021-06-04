@@ -77,6 +77,12 @@ var books = [{
     "author": "Timothy Zahn",
     "cover": "https://images-na.ssl-images-amazon.com/images/I/81cIJEItXcL.jpg",
     "pages":480
+},
+ {
+    "title": "I, Jedi",
+    "author": "Michael A. Stackpole",
+    "cover": "https://images-na.ssl-images-amazon.com/images/I/717jFriRA8L.jpg",
+    "pages":592
 }
 
         ]
