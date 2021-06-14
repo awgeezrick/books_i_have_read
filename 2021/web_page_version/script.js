@@ -89,6 +89,12 @@ var books = [{
     "author": "Claudia Gray",
     "cover": "https://static.wikia.nocookie.net/starwars/images/2/25/Lost_Stars.png",
     "pages":576
+},
+ {
+    "title": "Deceived",
+    "author": "Paul S. Kemp",
+    "cover": "https://images-na.ssl-images-amazon.com/images/I/919S9OE8SSL.jpg",
+    "pages":352
 }
 
         ]
