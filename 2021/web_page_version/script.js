@@ -101,6 +101,18 @@ var books = [{
     "author": "Sean Williams",
     "cover": "https://images-na.ssl-images-amazon.com/images/I/81JHIPuZ96L.jpg",
     "pages":512
+},
+ {
+    "title": "Dawn of the Jedi: Into the Void",
+    "author": "Tim Lebbon",
+    "cover": "https://images-na.ssl-images-amazon.com/images/I/916mJi0SzML.jpg",
+    "pages":352
+},
+ {
+    "title": "Lost Tribe of the Sith: The Collected Stories",
+    "author": "John Jackson Miller",
+    "cover": "https://images-na.ssl-images-amazon.com/images/I/91OngTdLjpL.jpg",
+    "pages":432
 }
 
 
