@@ -119,6 +119,12 @@ var books = [{
     "author": "Paul S. Kemp",
     "cover": "https://images-na.ssl-images-amazon.com/images/I/91bC9qa3yVL.jpg",
     "pages":368
+},
+ {
+    "title": "Dark Disciple",
+    "author": "Christie Golden",
+    "cover": "https://images-na.ssl-images-amazon.com/images/I/914jILPpk8L.jpg",
+    "pages":400
 }
 
 
