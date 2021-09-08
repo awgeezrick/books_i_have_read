@@ -125,6 +125,17 @@ var books = [{
     "author": "Christie Golden",
     "cover": "https://images-na.ssl-images-amazon.com/images/I/914jILPpk8L.jpg",
     "pages":400
+}, {
+    "title": "Outbound Flight",
+    "author": "Timothy Zahn",
+    "cover": "https://d374oxlv7wyffd.cloudfront.net/B00513F9OS/74698d8a/cover.jpeg",
+    "pages":420
+},
+ {
+    "title": "Aftermath",
+    "author": "Chuck Wendig",
+    "cover": "https://images-na.ssl-images-amazon.com/images/I/71A0u-M6MdL.jpg",
+    "pages":410
 }
 
 
