@@ -194,7 +194,19 @@ var books = [{
     "pages":480,
     "timeline": "5 ABY",
     "era": "New Republic"
+},
+ {
+    "title": "Aftermath: Empire's End",
+    "author": "Chuck Wendig",
+    "cover": "https://images-na.ssl-images-amazon.com/images/I/91k3TMVAJ3L.jpg",
+    "pages":512,
+    "timeline": "5 ABY",
+    "era": "New Republic"
 }
+
+
+
+
         ]
 
 const mainContent = document.getElementById("book-content");
