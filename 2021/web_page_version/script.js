@@ -202,6 +202,14 @@ var books = [{
     "pages":512,
     "timeline": "5 ABY",
     "era": "New Republic"
+},
+   {
+    "title": "Death Troopers",
+    "author": "Joe Schreiber",
+    "cover": "https://images-na.ssl-images-amazon.com/images/I/91uf1KhlGkL.jpg",
+    "pages":271,
+    "timeline": "1 BBY",
+    "era": "Rebellion"
 }
 
 
