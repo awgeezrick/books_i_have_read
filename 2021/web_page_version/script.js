@@ -238,6 +238,15 @@ var books = [{
     "timeline": "1 BBY",
     "era": "Rebellion",
   "storyline": "Legends"
+},
+   {
+    "title": "Annihilation",
+    "author": "Drew Karpyshyn",
+    "cover": "https://images-na.ssl-images-amazon.com/images/I/91gm+7rjbdL.jpg",
+    "pages":384,
+    "timeline": "3640 BBY",
+    "era": "Old Republic",
+  "storyline": "Legends"
 }
 
 
