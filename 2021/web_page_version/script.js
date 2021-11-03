@@ -247,6 +247,15 @@ var books = [{
     "timeline": "3640 BBY",
     "era": "Old Republic",
   "storyline": "Legends"
+},
+{
+    "title": "Tales of the Bounty Hunters",
+    "author": "Kevin Anderson",
+    "cover": "https://images-na.ssl-images-amazon.com/images/I/91s-9js1XfL.jpg",
+    "pages":352,
+    "timeline": "3 ABY",
+    "era": "Rebellion",
+  "storyline": "Legends"
 }
 
 
