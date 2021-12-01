@@ -174,7 +174,7 @@
     "author": "John Jackson Miller",
     "cover": "https://images-na.ssl-images-amazon.com/images/I/91OngTdLjpL.jpg",
     "pages":432,
-    "timeline": "5000 BBY- 2975 BBY",
+    "timeline": "5000 BBY - 2975 BBY",
     "era": "Old Republic",
   "storyline": "Legends"
 },
@@ -258,8 +258,16 @@
     "timeline": "3 ABY",
     "era": "Rebellion",
   "storyline": "Legends"
+},
+{
+    "title": "The Mandalorian Armor",
+    "author": "K.W. Jeter",
+    "cover": "https://images-na.ssl-images-amazon.com/images/I/91BvIDLU8CL.jpg",
+    "pages":400,
+    "timeline": "0 ABY - 4 ABY",
+    "era": "New Republic",
+  "storyline": "Legends"
 }
-
 
 
 ]
