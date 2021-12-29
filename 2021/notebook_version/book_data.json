@@ -267,8 +267,24 @@
     "timeline": "0 ABY - 4 ABY",
     "era": "New Republic",
   "storyline": "Legends"
+},
+{
+    "title": "Slave Ship",
+    "author": "K.W. Jeter",
+    "cover": "https://images-na.ssl-images-amazon.com/images/I/91UDiuRvV6L.jpg",
+    "pages":336,
+    "timeline": "0 ABY - 4 ABY",
+    "era": "New Republic",
+  "storyline": "Legends"
+},
+{
+    "title": "Hard Merchandise",
+    "author": "K.W. Jeter",
+    "cover": "https://images-na.ssl-images-amazon.com/images/I/91+0b-ZWeUL.jpg",
+    "pages":352,
+    "timeline": "0 ABY - 4 ABY",
+    "era": "New Republic",
+  "storyline": "Legends"
 }
-
-
 ]
 }
