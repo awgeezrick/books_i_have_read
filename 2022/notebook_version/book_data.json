@@ -1,0 +1,12 @@
+{
+"books": [
+{
+   "title": "Darth Plagueis",
+    "author": "James Luceno",
+    "cover": "https://images-na.ssl-images-amazon.com/images/I/91Ks5hTuBeL.jpg",
+    "pages": 498,
+  "main_genre": "Fiction",
+  "sub_genre": "Science Fiction"
+}
+]
+}
