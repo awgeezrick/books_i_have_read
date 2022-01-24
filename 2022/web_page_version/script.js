@@ -5,6 +5,13 @@ var books = [{
     "pages": 498,
   "main_genre": "Fiction",
   "sub_genre": "Science Fiction"
+},{
+   "title": "Dooku: Jedi Lost",
+    "author": "Cavan Scott",
+    "cover": "https://images-na.ssl-images-amazon.com/images/I/81pH9p7BqNL.jpg",
+    "pages": 480,
+  "main_genre": "Fiction",
+  "sub_genre": "Science Fiction"
 }
         ]
 
