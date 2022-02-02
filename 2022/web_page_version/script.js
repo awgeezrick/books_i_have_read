@@ -12,8 +12,18 @@ var books = [{
     "pages": 480,
   "main_genre": "Fiction",
   "sub_genre": "Science Fiction"
+},{
+   "title": "Fahrenheit 451",
+    "author": "Ray Bradbury",
+    "cover": "https://images-na.ssl-images-amazon.com/images/I/71OFqSRFDgL.jpg",
+    "pages": 249,
+  "main_genre": "Fiction",
+  "sub_genre": "Science Fiction"
 }
         ]
+
+
+
 
 const mainContent = document.getElementById("book-content");
 
