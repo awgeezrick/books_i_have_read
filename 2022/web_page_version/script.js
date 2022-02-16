@@ -19,6 +19,13 @@ var books = [{
     "pages": 249,
   "main_genre": "Fiction",
   "sub_genre": "Science Fiction"
+},{
+   "title": "Master and Apprentice",
+    "author": "Claudia Gray",
+    "cover": "https://images-na.ssl-images-amazon.com/images/I/91ygGYf+iGL.jpg",
+    "pages": 480,
+  "main_genre": "Fiction",
+  "sub_genre": "Science Fiction"
 }
         ]
 
