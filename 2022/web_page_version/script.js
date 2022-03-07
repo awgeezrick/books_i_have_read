@@ -26,6 +26,30 @@ var books = [{
     "pages": 480,
   "main_genre": "Fiction",
   "sub_genre": "Science Fiction"
+},
+  {
+   "title": "The Strain",
+    "author": "Guillermo Del Toro, Chuck Hogan",
+    "cover": "https://images-na.ssl-images-amazon.com/images/I/5131u2N5LjL.jpg",
+    "pages": 432,
+  "main_genre": "Fiction",
+  "sub_genre": "Horror"
+},
+  {
+   "title": "The Fall",
+    "author": "Guillermo Del Toro, Chuck Hogan",
+    "cover": "https://images-na.ssl-images-amazon.com/images/I/71EKigt2JoL.jpg",
+    "pages": 480,
+  "main_genre": "Fiction",
+  "sub_genre": "Horror"
+},
+  {
+   "title": "The Night Eternal",
+    "author": "Guillermo Del Toro, Chuck Hogan",
+    "cover": "https://images-na.ssl-images-amazon.com/images/I/71PCoE9ac1L.jpg",
+    "pages": 560,
+  "main_genre": "Fiction",
+  "sub_genre": "Horror"
 }
         ]
 
