@@ -50,6 +50,14 @@ var books = [{
     "pages": 560,
   "main_genre": "Fiction",
   "sub_genre": "Horror"
+},
+  {
+   "title": "Zen and the Art of Motorcycle Maintenance",
+    "author": "Robert M. Pirsig",
+    "cover": "https://images-na.ssl-images-amazon.com/images/I/61Geec7n-zL.jpg",
+    "pages": 464,
+  "main_genre": "Fiction",
+  "sub_genre": "Philosophy"
 }
         ]
 
