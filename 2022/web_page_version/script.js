@@ -58,6 +58,21 @@ var books = [{
     "pages": 464,
   "main_genre": "Fiction",
   "sub_genre": "Philosophy"
+}  {
+   "title": "Parasite Rex",
+    "author": "Carl Zimmer",
+    "cover": "https://images-na.ssl-images-amazon.com/images/I/51nMwMxNXtL.jpg",
+    "pages": 320,
+  "main_genre": "Non-Fiction",
+  "sub_genre": "Science"
+},
+  {
+   "title": "Kenobi",
+    "author": "John Jackson Miller",
+    "cover": "https://images-na.ssl-images-amazon.com/images/I/918lcUe62SL.jpg",
+    "pages": 464,
+  "main_genre": "Fiction",
+  "sub_genre": "Science Fiction"
 }
         ]
 
