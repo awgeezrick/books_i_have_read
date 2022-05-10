@@ -73,6 +73,21 @@ var books = [{
     "pages": 464,
   "main_genre": "Fiction",
   "sub_genre": "Science Fiction"
+}  {
+   "title": "Solaris",
+    "author": "Stanislaw Lem",
+    "cover": "https://images-na.ssl-images-amazon.com/images/I/51yQl6pPpeL.jpg",
+    "pages": 224,
+  "main_genre": "Fiction",
+  "sub_genre": "Science Fiction"
+},
+  {
+   "title": "Revenge of the Sith",
+    "author": "Matthew Stover",
+    "cover": "https://images-na.ssl-images-amazon.com/images/I/71OAJeaOCEL.jpg",
+    "pages": 480,
+  "main_genre": "Fiction",
+  "sub_genre": "Science Fiction"
 }
         ]
 
