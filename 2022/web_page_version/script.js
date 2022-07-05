@@ -73,7 +73,7 @@ var books = [{
     "pages": 464,
   "main_genre": "Fiction",
   "sub_genre": "Science Fiction"
-}  {
+} , {
    "title": "Solaris",
     "author": "Stanislaw Lem",
     "cover": "https://images-na.ssl-images-amazon.com/images/I/51yQl6pPpeL.jpg",
