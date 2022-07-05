@@ -58,7 +58,7 @@ var books = [{
     "pages": 464,
   "main_genre": "Fiction",
   "sub_genre": "Philosophy"
-}  {
+},{
    "title": "Parasite Rex",
     "author": "Carl Zimmer",
     "cover": "https://images-na.ssl-images-amazon.com/images/I/51nMwMxNXtL.jpg",
