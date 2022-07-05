@@ -92,8 +92,31 @@
     "pages": 480,
   "main_genre": "Fiction",
   "sub_genre": "Science Fiction"
+},
+  {
+   "title": "Meditations: A New Translation",
+    "author": "Marcus Aurelius",
+    "cover": "https://images-na.ssl-images-amazon.com/images/I/815Ewv1oJ+L.jpg",
+    "pages": 256,
+  "main_genre": "Non-Fiction",
+  "sub_genre": "Philosophy"
+},
+    {
+   "title": "Madness and Civilization: A History of Insanity in the Age of Reason",
+    "author": "Michel Foucault",
+    "cover": "https://images-na.ssl-images-amazon.com/images/I/71imS65EvQL.jpg",
+    "pages": 320,
+  "main_genre": "Non-Fiction",
+  "sub_genre": "Philosophy"
+},
+      {
+   "title": "Memoirs of an Addicted Brain: A Neuroscientist Examines his Former Life on Drugs",
+    "author": "Marc Lewis",
+    "cover": "https://images-na.ssl-images-amazon.com/images/I/91sEn+MOMaL.jpg",
+    "pages": 320,
+  "main_genre": "Non-Fiction",
+  "sub_genre": "Neurology"
 }
-
 
 
 ]
