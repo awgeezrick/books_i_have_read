@@ -112,6 +112,22 @@ var books = [{
     "pages": 320,
   "main_genre": "Non-Fiction",
   "sub_genre": "Neurology"
+},
+      {
+   "title": "The Paradise Snare: The Han Solo Trilogy: Book 1",
+    "author": "A.C.Crispin",
+    "cover": "https://images-na.ssl-images-amazon.com/images/I/91xSbZF4QjL.jpg",
+    "pages": 320,
+  "main_genre": "Fiction",
+  "sub_genre": "Science Fiction"
+},
+      {
+   "title": "The Hutt Gambit: The Han Solo Trilogy: Book 2",
+    "author": "A.C.Crispin",
+    "cover": "https://images-na.ssl-images-amazon.com/images/I/91uyDQXyiuL.jpg",
+    "pages": 352,
+  "main_genre": "Fiction",
+  "sub_genre": "Science Fiction"
 }
         ]
 
