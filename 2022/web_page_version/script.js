@@ -128,6 +128,21 @@ var books = [{
     "pages": 352,
   "main_genre": "Fiction",
   "sub_genre": "Science Fiction"
+}      {
+   "title": "Rebel Dawn : The Han Solo Trilogy: Book 3",
+    "author": "A.C.Crispin",
+    "cover": "https://images-na.ssl-images-amazon.com/images/I/91uus15z63L.jpg",
+    "pages": 400,
+  "main_genre": "Fiction",
+  "sub_genre": "Science Fiction"
+},
+        {
+   "title": "The Three-Body Problem",
+    "author": "Cixin Liu",
+    "cover": "https://images-na.ssl-images-amazon.com/images/I/919XM42JQlL.jpg",
+    "pages": 416,
+  "main_genre": "Fiction",
+  "sub_genre": "Science Fiction"
 }
         ]
 
