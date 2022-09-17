@@ -151,8 +151,16 @@ var books = [{
     "pages": 528,
   "main_genre": "Fiction",
   "sub_genre": "Science Fiction"
+},
+{
+   "title": "Death's End",
+    "author": "Cixin Liu",
+    "cover": "https://images-na.ssl-images-amazon.com/images/I/81qwB+z3TkL.jpg",
+    "pages": 624,
+  "main_genre": "Fiction",
+  "sub_genre": "Science Fiction"
 }
-        ]
+]
 
 
 
