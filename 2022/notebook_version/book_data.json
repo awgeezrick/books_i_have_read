@@ -163,6 +163,23 @@
     "pages": 624,
   "main_genre": "Fiction",
   "sub_genre": "Science Fiction"
+},
+  {
+   "title": "Time Warped: Unlocking the Mysteries of Time Perception",
+    "author": "Claudia Hammond",
+    "cover": "https://m.media-amazon.com/images/I/81kMTDUtzbL.jpg",
+    "pages": 352,
+  "main_genre": "Non-Fiction",
+  "sub_genre": "Time"
+},
+  {
+   "title": "Darksaber",
+    "author": "Kevin J. Anderson",
+    "cover": "https://m.media-amazon.com/images/I/91iRtahc48L.jpg",
+    "pages": 448,
+  "main_genre": "Fiction",
+  "sub_genre": "Science Fiction"
 }
+
 ]
 }
