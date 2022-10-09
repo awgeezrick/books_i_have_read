@@ -179,7 +179,14 @@
     "pages": 448,
   "main_genre": "Fiction",
   "sub_genre": "Science Fiction"
+},
+  {
+   "title": "The Crystal Star",
+    "author": "Vonda N. McIntyre",
+    "cover": "https://m.media-amazon.com/images/I/9129P+7eJyL.jpg",
+    "pages": 432,
+  "main_genre": "Fiction",
+  "sub_genre": "Science Fiction"
 }
-
 ]
 }
