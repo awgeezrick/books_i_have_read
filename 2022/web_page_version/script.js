@@ -182,6 +182,13 @@ var books = [{
     "pages": 432,
   "main_genre": "Fiction",
   "sub_genre": "Science Fiction"
+},{
+   "title": "Jedi Search: The Jedi Academy Trilogy - Book 1",
+    "author": "Kevin J. Anderson",
+    "cover": "https://m.media-amazon.com/images/I/9172wuiXuTL.jpg",
+    "pages": 368,
+  "main_genre": "Fiction",
+  "sub_genre": "Science Fiction"
 }
 ]
 
