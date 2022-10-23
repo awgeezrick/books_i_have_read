@@ -189,6 +189,13 @@ var books = [{
     "pages": 368,
   "main_genre": "Fiction",
   "sub_genre": "Science Fiction"
+},{
+   "title": "Dark Apprentice: The Jedi Academy Trilogy - Book 2",
+    "author": "Kevin J. Anderson",
+    "cover": "https://m.media-amazon.com/images/I/91J4LKmV8qL.jpg",
+    "pages": 368,
+  "main_genre": "Fiction",
+  "sub_genre": "Science Fiction"
 }
 ]
 
