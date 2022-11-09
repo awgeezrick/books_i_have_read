@@ -196,6 +196,13 @@ var books = [{
     "pages": 368,
   "main_genre": "Fiction",
   "sub_genre": "Science Fiction"
+},{
+   "title": "Champions of the Force: The Jedi Academy Trilogy - Book 3",
+    "author": "Kevin J. Anderson",
+    "cover": "https://m.media-amazon.com/images/I/91coIe3az8L.jpg",
+    "pages": 336,
+  "main_genre": "Fiction",
+  "sub_genre": "Science Fiction"
 }
 ]
 
