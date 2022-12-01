@@ -203,6 +203,14 @@ var books = [{
     "pages": 336,
   "main_genre": "Fiction",
   "sub_genre": "Science Fiction"
+},
+{
+   "title": "Making Sense of the Troubles: A History of the Northern Ireland Conflict",
+    "author": "David McKittrick and David McVea",
+    "cover": "https://m.media-amazon.com/images/I/91yw-zRuZ4L.jpg",
+    "pages": 368,
+  "main_genre": "Non-Fiction",
+  "sub_genre": "History"
 }
 ]
 
