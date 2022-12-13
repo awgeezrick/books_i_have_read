@@ -211,6 +211,22 @@ var books = [{
     "pages": 368,
   "main_genre": "Non-Fiction",
   "sub_genre": "History"
+},
+    {
+   "title": "Before the Storm: The Black Fleet Crisis Trilogy Book 1",
+    "author": "Michael P. Kube-Mcdowell",
+    "cover": "https://m.media-amazon.com/images/I/71Bdo0JbiqL.jpg",
+    "pages": 320,
+  "main_genre": "Fiction",
+  "sub_genre": "Science Fiction"
+},
+    {
+   "title": "Shield of Lies: The Black Fleet Crisis Trilogy Book 2",
+    "author": "Michael P. Kube-Mcdowell",
+    "cover": "https://m.media-amazon.com/images/I/51+kZV6z2HL.jpg",
+    "pages": 352,
+  "main_genre": "Fiction",
+  "sub_genre": "Science Fiction"
 }
 ]
 
