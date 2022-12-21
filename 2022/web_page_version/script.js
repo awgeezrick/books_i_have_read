@@ -227,6 +227,14 @@ var books = [{
     "pages": 352,
   "main_genre": "Fiction",
   "sub_genre": "Science Fiction"
+},
+    {
+   "title": "Tyrant's Test: The Black Fleet Crisis Trilogy Book 3",
+    "author": "Michael P. Kube-Mcdowell",
+    "cover": "https://m.media-amazon.com/images/I/91ZfmhH80yL.jpg",
+    "pages": 384,
+  "main_genre": "Fiction",
+  "sub_genre": "Science Fiction"
 }
 ]
 
