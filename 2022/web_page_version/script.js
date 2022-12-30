@@ -235,6 +235,14 @@ var books = [{
     "pages": 384,
   "main_genre": "Fiction",
   "sub_genre": "Science Fiction"
+},
+  {
+   "title": "The New Rebellion",
+    "author": "Kristine Kathryn Rusch",
+    "cover": "https://m.media-amazon.com/images/I/91+cBUP4P4L.jpg",
+    "pages": 544,
+  "main_genre": "Fiction",
+  "sub_genre": "Science Fiction"
 }
 ]
 
