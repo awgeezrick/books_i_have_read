@@ -1,0 +1,12 @@
+{
+"books": [
+{
+   "title": "Phasma",
+    "author": "Delilah S. Dawson",
+    "cover": "https://m.media-amazon.com/images/I/81xWEb3ubSL.jpg",
+    "pages": 480,
+  "main_genre": "Fiction",
+  "sub_genre": "Science Fiction"
+}
+]
+}
