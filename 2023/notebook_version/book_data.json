@@ -7,6 +7,22 @@
     "pages": 480,
   "main_genre": "Fiction",
   "sub_genre": "Science Fiction"
+},
+  {
+   "title": "Star Wars: From a Certain Point of View",
+    "author": "Cavan Scott, et al.",
+    "cover": "https://m.media-amazon.com/images/I/81G9gUCpS9L.jpg",
+    "pages": 496,
+  "main_genre": "Fiction",
+  "sub_genre": "Science Fiction"
+},
+ {
+   "title": "The Cabin at the End of the World",
+    "author": "Paul Tremblay",
+    "cover": "https://m.media-amazon.com/images/I/91nA6q3LGOL.jpg",
+    "pages": 336,
+  "main_genre": "Fiction",
+  "sub_genre": "Thriller"
 }
 ]
 }
