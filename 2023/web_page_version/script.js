@@ -21,6 +21,14 @@ var books = [{
     "pages": 336,
   "main_genre": "Fiction",
   "sub_genre": "Thriller"
+},
+ {
+   "title": "Ambush at Corellia - Book 1 of the Corellian Triology",
+    "author": "Roger MacBride Allen",
+    "cover": "https://m.media-amazon.com/images/I/91u+MlV8NTL.jpg",
+    "pages": 320,
+  "main_genre": "Fiction",
+  "sub_genre": "Science Fiction"
 }
 ]
 
