@@ -39,6 +39,14 @@
     "pages": 256,
   "main_genre": "Non-Fiction",
   "sub_genre": "Physics"
+},
+ {
+   "title": "Assault at Selonia - Book 2 of the Corellian Triology",
+    "author": "Roger MacBride Allen",
+    "cover": "https://m.media-amazon.com/images/I/91AWpA1dj4L.jpg",
+    "pages": 320,
+  "main_genre": "Fiction",
+  "sub_genre": "Science Fiction"
 }
 ]
 }
