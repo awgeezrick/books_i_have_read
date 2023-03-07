@@ -45,6 +45,14 @@ var books = [{
     "pages": 320,
   "main_genre": "Fiction",
   "sub_genre": "Science Fiction"
+},
+ {
+   "title": "Showdown at Centerpoint - Book 3 of the Corellian Triology",
+    "author": "Roger MacBride Allen",
+    "cover": "https://m.media-amazon.com/images/I/91eQrsTpq5L.jpg",
+    "pages": 336,
+  "main_genre": "Fiction",
+  "sub_genre": "Science Fiction"
 }
 ]
 
