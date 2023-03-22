@@ -53,6 +53,30 @@ var books = [{
     "pages": 336,
   "main_genre": "Fiction",
   "sub_genre": "Science Fiction"
+},
+ {
+   "title": "Spectre of the Past - Book 1 of the Hand of Thrawn Duology",
+    "author": "Timothy Zahn",
+    "cover": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/91DNhjGpnNL.jpg",
+    "pages": 400,
+  "main_genre": "Fiction",
+  "sub_genre": "Science Fiction"
+},
+ {
+   "title": "Vision of the Future - Book 2 of the Hand of Thrawn Duology",
+    "author": "Timothy Zahn",
+    "cover": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/91eFoIX9flL.jpg",
+    "pages": 704,
+  "main_genre": "Fiction",
+  "sub_genre": "Science Fiction"
+},
+ {
+   "title": "High Republic: Light of the Jedi",
+    "author": "Charles Soule",
+    "cover": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/814jezzdoBS.jpg",
+    "pages": 432,
+  "main_genre": "Fiction",
+  "sub_genre": "Science Fiction"
 }
 ]
 
