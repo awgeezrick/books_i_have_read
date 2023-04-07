@@ -79,6 +79,22 @@
     "pages": 432,
   "main_genre": "Fiction",
   "sub_genre": "Science Fiction"
+},
+ {
+   "title": "High Republic: The Rising Storm",
+    "author": "Cavan Scott",
+    "cover": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/81xbM7tWbEL.jpg",
+    "pages": 480,
+  "main_genre": "Fiction",
+  "sub_genre": "Science Fiction"
+},
+ {
+   "title": "High Republic: The Fallen Star",
+    "author": "Claudia Gray",
+    "cover": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71N8+YU-ZPL.jpg",
+    "pages": 400,
+  "main_genre": "Fiction",
+  "sub_genre": "Science Fiction"
 }
 ]
 }
