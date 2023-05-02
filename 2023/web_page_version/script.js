@@ -101,6 +101,14 @@ var books = [{
     "pages": 416,
   "main_genre": "Fiction",
   "sub_genre": "Science Fiction"
+},
+ {
+   "title": "Legacy of the Force: Betrayal",
+    "author": "Aaron Allston",
+    "cover": "https://m.media-amazon.com/images/I/81Q67KLjbbL.jpg",
+    "pages": 496,
+  "main_genre": "Fiction",
+  "sub_genre": "Science Fiction"
 }
 ]
 
