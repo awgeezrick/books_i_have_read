@@ -109,6 +109,22 @@ var books = [{
     "pages": 496,
   "main_genre": "Fiction",
   "sub_genre": "Science Fiction"
+},
+ {
+   "title": "Legacy of the Force: Tempest",
+    "author": "Troy Denning",
+    "cover": "https://m.media-amazon.com/images/I/81Ci5q9kShL.jpg",
+    "pages": 400,
+  "main_genre": "Fiction",
+  "sub_genre": "Science Fiction"
+},
+ {
+   "title": "Legacy of the Force: Exile",
+    "author": "Aaron Allston",
+    "cover": "https://m.media-amazon.com/images/I/81k6-MUemJL.jpg",
+    "pages": 368,
+  "main_genre": "Fiction",
+  "sub_genre": "Science Fiction"
 }
 ]
 
