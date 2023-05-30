@@ -125,6 +125,14 @@ var books = [{
     "pages": 368,
   "main_genre": "Fiction",
   "sub_genre": "Science Fiction"
+},
+ {
+   "title": "Legacy of the Force: Sacrifice",
+    "author": "Karen Traviss",
+    "cover": "https://m.media-amazon.com/images/I/81MenzbjlZL.jpg",
+    "pages": 512,
+  "main_genre": "Fiction",
+  "sub_genre": "Science Fiction"
 }
 ]
 
