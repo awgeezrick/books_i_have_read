@@ -135,6 +135,14 @@
     "pages": 512,
   "main_genre": "Fiction",
   "sub_genre": "Science Fiction"
+},
+ {
+   "title": "Legacy of the Force: Inferno",
+    "author": "Troy Denning",
+    "cover": "https://m.media-amazon.com/images/I/81ACMqpjwbL.jpg",
+    "pages": 336,
+  "main_genre": "Fiction",
+  "sub_genre": "Science Fiction"
 }
 ]
 }
