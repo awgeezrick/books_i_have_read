@@ -57,7 +57,7 @@ var books = [{
  {
    "title": "Spectre of the Past - Book 1 of the Hand of Thrawn Duology",
     "author": "Timothy Zahn",
-    "cover": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/91DNhjGpnNL.jpg",
+    "cover": "https://m.media-amazon.com/images/I/91DNhjGpnNL.jpg",
     "pages": 400,
   "main_genre": "Fiction",
   "sub_genre": "Science Fiction"
@@ -65,7 +65,7 @@ var books = [{
  {
    "title": "Vision of the Future - Book 2 of the Hand of Thrawn Duology",
     "author": "Timothy Zahn",
-    "cover": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/91eFoIX9flL.jpg",
+    "cover": "https://m.media-amazon.com/images/I/91eFoIX9flL.jpg",
     "pages": 704,
   "main_genre": "Fiction",
   "sub_genre": "Science Fiction"
@@ -73,7 +73,7 @@ var books = [{
  {
    "title": "High Republic: Light of the Jedi",
     "author": "Charles Soule",
-    "cover": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/814jezzdoBS.jpg",
+    "cover": "https://m.media-amazon.com/images/I/814jezzdoBS.jpg",
     "pages": 432,
   "main_genre": "Fiction",
   "sub_genre": "Science Fiction"
@@ -81,7 +81,7 @@ var books = [{
  {
    "title": "High Republic: The Rising Storm",
     "author": "Cavan Scott",
-    "cover": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/81xbM7tWbEL.jpg",
+    "cover": "https://m.media-amazon.com/images/I/81xbM7tWbEL.jpg",
     "pages": 480,
   "main_genre": "Fiction",
   "sub_genre": "Science Fiction"
@@ -89,7 +89,7 @@ var books = [{
  {
    "title": "High Republic: The Fallen Star",
     "author": "Claudia Gray",
-    "cover": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71N8+YU-ZPL.jpg",
+    "cover": "https://m.media-amazon.com/images/I/71N8+YU-ZPL.jpg",
     "pages": 400,
   "main_genre": "Fiction",
   "sub_genre": "Science Fiction"
@@ -139,6 +139,30 @@ var books = [{
     "author": "Troy Denning",
     "cover": "https://m.media-amazon.com/images/I/81ACMqpjwbL.jpg",
     "pages": 336,
+  "main_genre": "Fiction",
+  "sub_genre": "Science Fiction"
+},
+ {
+   "title": "Legacy of the Force: Fury",
+    "author": "Aaron Allston",
+    "cover": "https://m.media-amazon.com/images/I/815RvxIY1lL.jpg",
+    "pages": 384,
+  "main_genre": "Fiction",
+  "sub_genre": "Science Fiction"
+},
+ {
+   "title": "Legacy of the Force: Revelation",
+    "author": "Karen Traviss",
+    "cover": "https://m.media-amazon.com/images/I/81giknjXOmL.jpg",
+    "pages": 448,
+  "main_genre": "Fiction",
+  "sub_genre": "Science Fiction"
+},
+ {
+   "title": "Legacy of the Force: Invincible",
+    "author": "Troy Denning",
+    "cover": "https://m.media-amazon.com/images/I/81OfhJ2upnL.jpg",
+    "pages": 368,
   "main_genre": "Fiction",
   "sub_genre": "Science Fiction"
 }
