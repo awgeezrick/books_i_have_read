@@ -165,6 +165,14 @@ var books = [{
     "pages": 368,
   "main_genre": "Fiction",
   "sub_genre": "Science Fiction"
+},
+  {
+   "title": "Dune",
+    "author": "Frank Herbert",
+    "cover": "https://www.isfdb.org/wiki/images/c/c7/BKTG06036.jpg",
+    "pages": 553,
+  "main_genre": "Fiction",
+  "sub_genre": "Science Fiction"
 }
 ]
 
