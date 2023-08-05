@@ -175,6 +175,14 @@
     "pages": 553,
   "main_genre": "Fiction",
   "sub_genre": "Science Fiction"
-}
+},
+ {
+   "title": "1984",
+   "author": "George Orwell",
+   "cover": "https://m.media-amazon.com/images/I/81Y4y+30hUL.jpg",
+   "pages": 317,
+   "main_genre": "Fiction",
+   "sub_genre": "Science Fiction"
+ }
 ]
 }
