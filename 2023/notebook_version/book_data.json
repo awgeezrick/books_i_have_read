@@ -183,6 +183,22 @@
    "pages": 317,
    "main_genre": "Fiction",
    "sub_genre": "Science Fiction"
+ },
+ {
+   "title": "The Joiner King (Dark Nest Triology: Book 1)",
+   "author": "Troy Denning",
+   "cover": "https://m.media-amazon.com/images/I/91UAZ4dSh3L._SL1500_.jpg",
+   "pages": 544,
+   "main_genre": "Fiction",
+   "sub_genre": "Science Fiction"
+ },
+ {
+   "title": "The Unseen Queen (Dark Nest Triology: Book 2)",
+   "author": "Troy Denning",
+   "cover": "https://m.media-amazon.com/images/I/91zSVZpeuHL._SL1500_.jpg",
+   "pages": 368,
+   "main_genre": "Fiction",
+   "sub_genre": "Science Fiction"
  }
 ]
 }
