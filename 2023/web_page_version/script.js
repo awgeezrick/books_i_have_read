@@ -197,6 +197,14 @@ var books = [{
    "pages": 368,
    "main_genre": "Fiction",
    "sub_genre": "Science Fiction"
+ },
+ {
+   "title": "The Swarm War (Dark Nest Triology: Book 2)",
+   "author": "Troy Denning",
+   "cover": "https://m.media-amazon.com/images/I/91CcHuBat1L._SL1500_.jpg",
+   "pages": 384,
+   "main_genre": "Fiction",
+   "sub_genre": "Science Fiction"
  }
 ]
 
