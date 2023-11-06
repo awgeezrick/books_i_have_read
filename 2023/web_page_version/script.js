@@ -199,10 +199,18 @@ var books = [{
    "sub_genre": "Science Fiction"
  },
  {
-   "title": "The Swarm War (Dark Nest Triology: Book 2)",
+   "title": "The Swarm War (Dark Nest Triology: Book 3)",
    "author": "Troy Denning",
    "cover": "https://m.media-amazon.com/images/I/91CcHuBat1L._SL1500_.jpg",
    "pages": 384,
+   "main_genre": "Fiction",
+   "sub_genre": "Science Fiction"
+ },
+ {
+   "title": "Star Wars: Thrawn Ascendancy (Book I: Chaos Rising)",
+   "author": "James Luceno",
+   "cover": "https://m.media-amazon.com/images/I/71wd4PljQuL._SL1500_.jpg",
+   "pages": 416,
    "main_genre": "Fiction",
    "sub_genre": "Science Fiction"
  }
