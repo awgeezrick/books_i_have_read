@@ -231,6 +231,30 @@
    "pages": 592,
    "main_genre": "Fiction",
    "sub_genre": "Science Fiction"
+ },
+   {
+   "title": "The Force Unleashed",
+   "author": "Sean Williams",
+   "cover": "https://m.media-amazon.com/images/W/MEDIAX_792452-T2/images/I/71+W9zFBxmL._SL1200_.jpg",
+   "pages": 368,
+   "main_genre": "Fiction",
+   "sub_genre": "Science Fiction"
+ },
+     {
+   "title": "The Force Unleashed II",
+   "author": "Sean Williams",
+   "cover": "https://m.media-amazon.com/images/W/MEDIAX_792452-T2/images/I/81SOsomk2tL._SL1500_.jpg",
+   "pages": 368,
+   "main_genre": "Fiction",
+   "sub_genre": "Science Fiction"
+ },
+       {
+   "title": "Outlive: The Science and Art of Longevity",
+   "author": "Peter Attia",
+   "cover": "https://m.media-amazon.com/images/W/MEDIAX_792452-T2/images/I/71X9FMy66NL._SL1500_.jpg",
+   "pages": 496,
+   "main_genre": "Non-Fiction",
+   "sub_genre": "Health"
  }
 ]
 }
