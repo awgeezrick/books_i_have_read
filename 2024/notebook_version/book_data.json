@@ -31,6 +31,34 @@
     "pages": 416,
   "main_genre": "Non-Fiction",
   "sub_genre": "History"
+}, {
+    "title": "Darth Bane: Path of Destruction",
+    "author": "Drew Karpyshyn",
+    "cover": "https://images-na.ssl-images-amazon.com/images/I/919IhaKl1qL.jpg",
+    "pages": 324,
+    "main_genre": "Fiction",
+  "sub_genre": "Science Fiction"
+}, {
+    "title": "Darth Bane: Rule of Two",
+    "author": "Drew Karpyshyn",
+    "cover": "https://images-na.ssl-images-amazon.com/images/I/91Nsu5lwOkL.jpg",
+    "pages": 352,
+    "main_genre": "Fiction",
+  "sub_genre": "Science Fiction"
+}, {
+    "title": "Darth Bane: Dynasty of Evil",
+    "author": "Drew Karpyshyn",
+    "cover": "https://images-na.ssl-images-amazon.com/images/I/91hCdXC3yIL.jpg",
+    "pages": 336,
+    "main_genre": "Fiction",
+  "sub_genre": "Science Fiction"
+}, {
+    "title": "The Martian",
+    "author": "Andy Weir",
+    "cover": "https://m.media-amazon.com/images/I/71SRkQ-DwZL._SL1500_.jpg",
+    "pages": 387,
+    "main_genre": "Fiction",
+  "sub_genre": "Science Fiction"
 }
 ]
 }
