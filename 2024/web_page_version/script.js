@@ -57,6 +57,20 @@ var books = [{
     "pages": 387,
     "main_genre": "Fiction",
   "sub_genre": "Science Fiction"
+}, {
+    "title": "Joyful Recollections of Trauma",
+    "author": "Paul Scheer",
+    "cover": "https://m.media-amazon.com/images/I/81r7DZj3QjL._SL1500_.jpg",
+    "pages": 256,
+    "main_genre": "Non-Fiction",
+  "sub_genre": "Trauma"
+}, {
+    "title": "Project Hail Mary",
+    "author": "Andy Weir",
+    "cover": "https://m.media-amazon.com/images/I/81gYjHx8YmL._SL1500_.jpg",
+    "pages": 496,
+    "main_genre": "Fiction",
+  "sub_genre": "Science Fiction"
 }
 ]
 
