@@ -71,7 +71,23 @@ var books = [{
     "pages": 496,
     "main_genre": "Fiction",
   "sub_genre": "Science Fiction"
-}
+},
+  {
+    "title": "Recursion",
+    "author": "Blake Crouch",
+    "cover": "https://m.media-amazon.com/images/I/81Hj5g9zmOL._SL1500_.jpg",
+    "pages": 336,
+    "main_genre": "Fiction",
+    "sub_genre": "Science Fiction"
+  },
+  {
+    "title": "Endless Forms: The Secret World of Wasps",
+    "author": "Seirian Sumner",
+    "cover": "https://m.media-amazon.com/images/I/71IzHgUHSZL._SL1500_.jpg",
+    "pages": 408,
+    "main_genre": "Non-Fiction",
+    "sub_genre": "Entomology"
+  }
 ]
 
 
