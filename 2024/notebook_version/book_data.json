@@ -89,6 +89,14 @@
     "pages": 408,
     "main_genre": "Non-Fiction",
     "sub_genre": "Entomology"
+  },
+  {
+    "title": "From a Certain Point of View: The Empire Strikes Back",
+    "author": "Seth Dickinson, et al.",
+    "cover": "https://m.media-amazon.com/images/I/81MOgObnwSL._SL1500_.jpg",
+    "pages": 576,
+    "main_genre": "Fiction",
+    "sub_genre": "Science Fiction"
   }
 ]
 }
