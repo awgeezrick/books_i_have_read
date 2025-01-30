@@ -1,0 +1,28 @@
+{
+"books": [
+{
+   "title": "A New Dawn",
+    "author": "John Jackson Miller",
+    "cover": "https://m.media-amazon.com/images/I/71a8lzJpiLL._SL1200_.jpg",
+    "pages": 416,
+  "main_genre": "Fiction",
+  "sub_genre": "Science Fiction"
+},
+{
+   "title": "Armada",
+    "author": "Ernest Cline",
+    "cover": "https://m.media-amazon.com/images/I/61fuQ7f70UL._SL1200_.jpg",
+    "pages": 368,
+  "main_genre": "Fiction",
+  "sub_genre": "Science Fiction"
+},
+{
+   "title": "Vector Prime",
+    "author": "R.A. Salvatore",
+    "cover": "https://m.media-amazon.com/images/I/71xqf9pwygL._SL1200_.jpg",
+    "pages": 416,
+  "main_genre": "Fiction",
+  "sub_genre": "Science Fiction"
+}
+]
+}
