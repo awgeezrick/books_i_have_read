@@ -21,6 +21,22 @@ var books = [{
     "pages": 416,
   "main_genre": "Fiction",
   "sub_genre": "Science Fiction"
+},
+{
+   "title": "Onslaught: Dark Tide, Book 1",
+    "author": "Michael A. Stackpole",
+    "cover": "https://m.media-amazon.com/images/I/811LMhhIYeL._SL1500_.jpg",
+    "pages": 304,
+  "main_genre": "Fiction",
+  "sub_genre": "Science Fiction"
+},
+{
+   "title": "Ruin: Dark Tide, Book 2",
+    "author": "Michael A. Stackpole",
+    "cover": "https://m.media-amazon.com/images/I/61rBltnAQ5L._SL1200_.jpg",
+    "pages": 304,
+  "main_genre": "Fiction",
+  "sub_genre": "Science Fiction"
 }
 ]
 
