@@ -37,6 +37,37 @@ var books = [{
     "pages": 304,
   "main_genre": "Fiction",
   "sub_genre": "Science Fiction"
+},{
+   "title": "1984",
+    "author": "George Orwell",
+    "cover": "https://images-na.ssl-images-amazon.com/images/I/51K84pomCRL._SX305_BO1,204,203,200_.jpg",
+    "pages": 336,
+  "main_genre": "Fiction",
+  "sub_genre": "Political Fiction"
+},
+ {
+   "title": "Stories of Your Life and Others",
+    "author": "Ted Chiang",
+    "cover": "https://m.media-amazon.com/images/I/71ZRRZShcGL._SL1200_.jpg",
+    "pages": 304,
+  "main_genre": "Fiction",
+  "sub_genre": "Science Fiction"
+},
+ {
+   "title": "Exhalation: Stories",
+    "author": "Ted Chiang",
+    "cover": "https://m.media-amazon.com/images/I/71rxUxpcPgL._SL1500_.jpg",
+    "pages": 362,
+  "main_genre": "Fiction",
+  "sub_genre": "Science Fiction"
+},
+ {
+   "title": "Meditations",
+    "author": "Marcus Aurelius (Translated by David V.Hicks and C.Scot Hicks)",
+    "cover": "https://m.media-amazon.com/images/I/71Hppm9uNxL._SL1500_.jpg",
+    "pages": 160,
+  "main_genre": "Non-Fiction",
+  "sub_genre": "History"
 }
 ]
 
