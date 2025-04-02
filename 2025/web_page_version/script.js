@@ -68,6 +68,14 @@ var books = [{
     "pages": 160,
   "main_genre": "Non-Fiction",
   "sub_genre": "History"
+},
+ {
+   "title": "Two Suns Rising: A Collection of Sacred Writings",
+    "author": "Johnathan Star",
+    "cover": "https://m.media-amazon.com/images/I/818xkKVI4qL._SL1500_.jpg",
+    "pages": 254,
+  "main_genre": "Non-Fiction",
+  "sub_genre": "Spirituality"
 }
 ]
 
