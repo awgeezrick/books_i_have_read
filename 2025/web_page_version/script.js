@@ -76,6 +76,14 @@ var books = [{
     "pages": 254,
   "main_genre": "Non-Fiction",
   "sub_genre": "Spirituality"
+},
+ {
+   "title": "Tales from the New Republic: Star Wars Legends",
+    "author": "Peter Schweighofer (Editor), Craig Carey (Editor)",
+    "cover": "https://m.media-amazon.com/images/I/81FbRTirnlL._SL1500_.jpg",
+    "pages": 432,
+  "main_genre": "Fiction",
+  "sub_genre": "Science Fiction"
 }
 ]
 
