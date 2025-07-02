@@ -84,6 +84,14 @@ var books = [{
     "pages": 432,
   "main_genre": "Fiction",
   "sub_genre": "Science Fiction"
+},
+{
+ "title": "The New Machiavelli: The Art of Politics in Business",
+  "author": "Alistair McAlpine",
+  "cover": "https://m.media-amazon.com/images/I/61SfsQp1TnL._SL1360_.jpg",
+  "pages": 224,
+"main_genre": "Non-Fiction",
+"sub_genre": "Strategy & Competition"
 }
 ]
 
