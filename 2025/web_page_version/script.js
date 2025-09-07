@@ -92,6 +92,46 @@ var books = [{
   "pages": 224,
 "main_genre": "Non-Fiction",
 "sub_genre": "Strategy & Competition"
+},
+{
+ "title": "Discourses and Selected Writings",
+  "author": "Epictetus",
+  "cover": "https://m.media-amazon.com/images/I/91R2SGZcNmL._SL1500_.jpg",
+  "pages": 304,
+"main_genre": "Non-Fiction",
+"sub_genre": "Ancient Philosophy"
+},
+{
+ "title": "The Hitchhiker's Guide to the Galaxy",
+  "author": "Douglas Adams",
+  "cover": "https://m.media-amazon.com/images/I/71Mt00Ge1XL._SL1500_.jpg",
+  "pages": 224,
+"main_genre": "Fiction",
+"sub_genre": "Science Fiction"
+},
+{
+ "title": "The Restaurant at the End of the Universe",
+  "author": "Douglas Adams",
+  "cover": "https://m.media-amazon.com/images/I/81c+nZwjzDL._SL1500_.jpg",
+  "pages": 240,
+"main_genre": "Fiction",
+"sub_genre": "Science Fiction"
+},
+{
+ "title": "Life, the Universe and Everything",
+  "author": "Douglas Adams",
+  "cover": "https://m.media-amazon.com/images/I/81wGDmo3osL._SL1500_.jpg",
+  "pages": 240,
+"main_genre": "Fiction",
+"sub_genre": "Science Fiction"
+},
+{
+ "title": "So Long, and Thanks for All the Fish",
+  "author": "Douglas Adams",
+  "cover": "https://m.media-amazon.com/images/I/81zjgwacswL._SL1500_.jpg",
+  "pages": 208,
+"main_genre": "Fiction",
+"sub_genre": "Science Fiction"
 }
 ]
 
