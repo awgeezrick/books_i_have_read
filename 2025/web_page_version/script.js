@@ -132,6 +132,14 @@ var books = [{
   "pages": 208,
 "main_genre": "Fiction",
 "sub_genre": "Science Fiction"
+},
+{
+ "title": "The Han Solo Adventures",
+  "author": "Brian Daley",
+  "cover": "https://m.media-amazon.com/images/I/81jWICcMjBL._SL1500_.jpg",
+  "pages": 608,
+"main_genre": "Fiction",
+"sub_genre": "Science Fiction"
 }
 ]
 
