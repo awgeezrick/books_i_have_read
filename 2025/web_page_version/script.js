@@ -140,6 +140,22 @@ var books = [{
   "pages": 608,
 "main_genre": "Fiction",
 "sub_genre": "Science Fiction"
+},
+{
+ "title": "If It Bleeds",
+  "author": "Stephen King",
+  "cover": "https://m.media-amazon.com/images/I/81yuuB2ky0L._SL1500_.jpg",
+  "pages": 448,
+"main_genre": "Fiction",
+"sub_genre": "Horror"
+},
+{
+ "title": "From a Certain Point of View: Return of the Jedi",
+  "author": "Olivie Blake, et al.",
+  "cover": "https://m.media-amazon.com/images/I/81NvwMjVOQL._SL1500_.jpg",
+  "pages": 592,
+"main_genre": "Fiction",
+"sub_genre": "Science Fiction"
 }
 ]
 
