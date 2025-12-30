@@ -156,6 +156,14 @@ var books = [{
   "pages": 592,
 "main_genre": "Fiction",
 "sub_genre": "Science Fiction"
+},
+{
+ "title": "A Canticle for Leibowitz",
+  "author": "Walter Miller",
+  "cover": "https://m.media-amazon.com/images/I/71lXLtOjhfL._SL1500_.jpg",
+  "pages": 368,
+"main_genre": "Fiction",
+"sub_genre": "Science Fiction"
 }
 ]
 
