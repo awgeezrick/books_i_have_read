@@ -1,0 +1,13 @@
+{
+"books": [
+{
+   "title": "The Gunslinger",
+    "author": "Stephen King",
+    "cover": "https://m.media-amazon.com/images/I/71LiCxdD-ZL._SL1500_.jpg",
+    "pages": 288,
+  "main_genre": "Fiction",
+  "sub_genre": "Fantasy"
+}
+
+]
+}
