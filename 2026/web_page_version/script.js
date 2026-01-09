@@ -5,6 +5,13 @@ var books = [{
     "pages": 288,
   "main_genre": "Fiction",
   "sub_genre": "Fantasy"
+}, {
+   "title": "The Drawing of the Three",
+    "author": "Stephen King",
+    "cover": "https://m.media-amazon.com/images/I/71KQ324N9vL._SL1500_.jpg",
+    "pages": 496,
+  "main_genre": "Fiction",
+  "sub_genre": "Fantasy"
 }
 ]
 
